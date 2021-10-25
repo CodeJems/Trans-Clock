@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="560">
+  <defs>
+    <linearGradient x1="67.535" y1="422.773" x2="412.713" y2="79.813" id="a" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6b"/>
+      <stop offset="1" stop-color="#0c30ad"/>
+    </linearGradient>
+    <linearGradient x1="67.535" y1="422.773" x2="412.713" y2="79.813" id="b" xlink:href="#a" gradientUnits="userSpaceOnUse" gradientTransform="translate(-100.157 -116.85) scale(1.41732)"/>
+  </defs>
+  <path d="M0 0v106.656h42.656v-32l32 32-32 32 32.032 31.969 31.968-31.969 10.688 10.531C96.148 175.923 83.518 209.5 83.5 246.063c-.038 78.124 57.386 143.193 132.563 154.72L216 456h-61.344v48H216v56h48v-56h61.344v-48H264v-55.312c74.884-11.598 132.531-76.585 132.531-154.625 0-36.47-12.588-70.114-33.687-96.813l74.5-74.594V144H480V0H336v42.656h69.344l-75.406 75.438C304.471 100.127 273.437 89.53 240 89.53c-33.426 0-64.459 10.59-89.875 28.563l-11.469-11.438 32-32-32-32-32 32-32-32h32V0H0zm240 133.438c61.683 0 112 50.316 112 112 0 61.683-50.317 112-112 112s-112-50.317-112-112c0-61.684 50.317-112 112-112z" fill="url(#b)"/>
+</svg>
